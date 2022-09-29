@@ -1,0 +1,15 @@
+{
+  "name": "npm-prepare-test",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "s1r-J",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "npm-prepare-test-installed": "git+https://github.com/s1r-J/npm-prepare-test-installed.git"
+  }
+}
